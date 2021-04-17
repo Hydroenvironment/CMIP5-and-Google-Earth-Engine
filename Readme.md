@@ -4,10 +4,12 @@ state and is being actively
 developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 
-# NetCDF-DATA-TREATMENT
+# 🌏EXTRACTION OF DOWNSCALED DAILY DATA FROM GENERAL CIRCULATION MODELS (GCM`S) - NASA NEX GDDP - CMIP5 RCP 4.5 AND 8.5
 <img src="https://www.researchgate.net/publication/315950787/figure/fig3/AS:567797237248005@1512384818972/An-example-of-how-a-dataset-netCDF-or-xarray-for-a-weather-forecast-might-be.png" align="center" hspace="10" vspace="6" width="30%"></a>
 
-🌏 NetCDF (Network Common Data Form) is a set of software libraries and machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. It is also a community standard for sharing scientific data.
+ 
+Daily mean of precipitation at surface; includes both liquid and solid phases from all types of clouds (both large-scale and convective)
+Daily mean of the daily-minimum near-surface air temperature
 ✅Useful scripts for treatment of NetCDF datasets.
 
 <img src="https://icons-for-free.com/iconfiles/png/512/command+console+php+programmer+prompt+seo+icon-1320191020194645741.png" align="center" hspace="10" vspace="6" width="3%"></a>
