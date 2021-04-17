@@ -4,11 +4,11 @@ developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.re
 [![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 
 # 🌏EXTRACTION OF DOWNSCALED DAILY DATA FROM GENERAL CIRCULATION MODELS (GCM`S)
-<img src="https://www.researchgate.net/publication/315950787/figure/fig3/AS:567797237248005@1512384818972/An-example-of-how-a-dataset-netCDF-or-xarray-for-a-weather-forecast-might-be.png" align="center" hspace="10" vspace="6" width="30%"></a>
+<img src="http://www.nasa.gov/sites/default/files/thumbnails/image/15-115.jpg" align="center" hspace="10" vspace="6" width="30%"></a>
 
 ✅Useful javascript program for downloading historical and projected climate data (RCP 4.5 and 8.5) from GCM`s in CMIP5 phase.
 
-# Available variables:
+𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝘃𝗮𝗿𝗶𝗮𝗯𝗹𝗲𝘀:
 
 🌧️Daily mean of precipitation at surface; includes both liquid and solid phases from all types of clouds (both large-scale and convective)
 
