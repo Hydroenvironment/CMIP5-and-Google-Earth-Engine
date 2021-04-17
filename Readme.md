@@ -1,6 +1,5 @@
 [![R build status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Hydroenvironment/CMIP6-WORLDCLIM-HANDLING/actions)
-[![Project Status: Active – The project has reached a stable, usable
-state and is being actively
+[![Project Status: Active – The project has reached a stable, usable state and is being actively
 developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 
