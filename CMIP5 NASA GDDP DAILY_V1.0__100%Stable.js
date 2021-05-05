@@ -1,6 +1,5 @@
 //SCRIPT PARA DESCARGAR LOS BASES DE DATOS DE MODELOS DE CIRCULACIÓN GENERAL (GCM's) 
 //COLECCIÓN DEL PRODUCTO NASA NEX GDDP A ESCALA DIARIA
-// VERSIÓN 1.0 - AUTOR:JULIO MONTENEGRO GAMBINI
 //Insertar coordenadas geográficas de la estación (punto) de interés
 //Cambia el nombre de la variable "estac" para tener una carpeta en Google Drive con el nombre de cada estación
 
@@ -292,4 +291,3 @@ Export.table.toDrive(timeserieshist,
 'HISTPR', // Name of the task
 estacname, // Name of the folder in Google Drive to be created
 'HISTPR'); // Name of the file to be generated with the downloaded datasets
-
