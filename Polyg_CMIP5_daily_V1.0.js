@@ -1,6 +1,6 @@
 // specify start and end date
-var startDate = ee.Date('2020-01-01');
-var endDate = ee.Date('2021-01-01');
+var startDate = ee.Date('2035-01-01');
+var endDate = ee.Date('2042-01-01');
 
 // get the dataset between date range and extract band on interest
 var dataset = ee.ImageCollection('NASA/NEX-GDDP')
